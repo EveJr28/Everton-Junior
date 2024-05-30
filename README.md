@@ -13,3 +13,6 @@ Meu projeto contém um código que realiza análise dos dados do arquivo propost
 1. Clone o repositório ou baixe o código
 2. Certifique-se de usar algum editor de código-fonte para Python 3
 3. Baixe as bibliotecas acimas mencionadas
+
+## Explicação 
+No arquivo .doc está o explicativo das analises propostas pelo recrutador
